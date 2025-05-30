@@ -1,2 +1,1 @@
-# HomieCLI
-HomieCLI
+🛠️ Built a lightweight AI-powered command-line interface (CLI) tool in Java using Picocli, integrated with OpenAI's API 🤖 to provide real-time natural language interaction.🔧 Designed a secure configuration system using externalized properties for API key management 🔐. Implemented structured command parsing 🧩 and robust error handling ⚠️ to deliver a seamless developer experience.📦 Packaged as a self-contained JAR for easy distribution and cross-platform usage.
